@@ -61,5 +61,5 @@
 > Par ek baar analyst ban gaye, toh duniya salute karegi! 🫡
 
 
-![Snake animation](https://github.com/Nirmalpawar/Nirmalpawar/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Nirmalpawar/Nirmalpawar/blob/output/github-contribution-grid-snake.svg
 
