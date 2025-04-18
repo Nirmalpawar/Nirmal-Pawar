@@ -38,6 +38,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nirmalpawar&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalpawar&theme=tokyonight" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirmalpawar/Nirmalpawar/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirmalpawar/Nirmalpawar/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nirmalpawar/Nirmalpawar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -51,7 +56,7 @@
     <img align="center" src="https://img.shields.io/badge/Email-DarkGreen?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/Nirmalpawar/Nirmalpawar/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 
 ---
