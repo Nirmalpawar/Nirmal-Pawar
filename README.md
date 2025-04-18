@@ -51,7 +51,7 @@
     <img align="center" src="https://img.shields.io/badge/Email-DarkGreen?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
-
+https://github.com/Nirmalpawar/Nirmalpawar/blob/output/github-contribution-grid-snake.svg
 ---
 
 ### ⚡ Fun Fact
@@ -61,5 +61,5 @@
 > Par ek baar analyst ban gaye, toh duniya salute karegi! 🫡
 
 
-https://github.com/Nirmalpawar/Nirmalpawar/blob/output/github-contribution-grid-snake.svg
+
 
